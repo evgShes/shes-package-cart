@@ -1,0 +1,17 @@
+{
+  "name":"shes/shes-shopping-cart",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "evgShes",
+      "email": "warmest_reg@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require":{},
+  "autoload":{
+    "psr-4":{
+      "ShesShoppingCart\\":""
+    }
+  }
+}
