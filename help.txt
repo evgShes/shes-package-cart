@@ -1,0 +1,2 @@
+php artisan vendor:publish --provider="ShesShoppingCart\Providers\CartServiceProvider"
+php composer.phar require shes/shes-shopping-cart:dev-master
