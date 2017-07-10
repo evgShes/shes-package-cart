@@ -7,7 +7,7 @@
       "email": "warmest_reg@mail.ru"
     }
   ],
-  "minimum-stability": "dev",
+//  "minimum-stability": "dev",
   "require":{},
   "autoload":{
     "psr-4":{
